@@ -1,2 +1,3 @@
-# self-powered_motors_and_generators
-Software to operate instances and arrays of Bannon Maher self-powered motors and generators.
+# Generator Array Controller
+
+Software to operate instances and arrays of Bannon Maher motors and generators.
